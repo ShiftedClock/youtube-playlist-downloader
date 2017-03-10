@@ -4,12 +4,16 @@ By default it downloads the videos from the [Berkeley Deep Reinforcement Learnin
 
 To run, clone this repository into an empty directory:
  `git clone https://github.com/svass/youtube-playlist-downloader.git`
+ 
 Then install the one dependency:
  `pip install pytube`
+ 
 Finally run the script:
  `python playlist-downloader.py`
+ 
 Optionally specify a playlist url to download:
  `python playlist-downloader.py -p https://www.youtube.com/playlist?list=PLBmH8k4EW7GJ-tsTXJLOKQuNYXpRu8mjS`
+ 
 And/or a destination directory to save the videos in:
  `python playlist-downloader.py -d ~/corgi_videos -p https://www.youtube.com/playlist?list=PLBmH8k4EW7GJ-tsTXJLOKQuNYXpRu8mjS`
  
