@@ -1,3 +1,7 @@
+## This is an archived repository.
+I recommend using youtube-dl instead: https://github.com/rg3/youtube-dl
+It supports downloading playlists using the command line flag --playlist-start, and many other options.
+
 # youtube-playlist-downloader
 A Python CLI utility to download an entire playlist from YouTube.
 By default it downloads the videos from the [Berkeley Deep Reinforcement Learning class CS294](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX).
